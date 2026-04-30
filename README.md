@@ -22,4 +22,4 @@ Passionate about building scalable web applications and efficient backend servic
 ### 📈 Activity & Stats
 * 🔭 **Currently working on:** Optimizing backend performance and building educational dev tools.
 * ⚡ **Recent Activity:** 25+ commits across 6 major projects this month.
-* 📫 **How to reach me:** [Your Email or LinkedIn Link Here]
+* 📫 **How to reach me:** [mekalasravankumar66@gmail.com](mailto:mekalasravankumar66@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sravan-kumar-mekala-963096336/)
